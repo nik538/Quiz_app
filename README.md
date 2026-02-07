@@ -37,8 +37,8 @@ This project helped me gain hands-on experience with React on the frontend and P
 
 ## Project Structure
   - Quiz_app
-  ├── frontend # React frontend code
-  └── backend # Python backend code
+  -├── frontend # React frontend code
+  -└── backend # Python backend code
 
 ##  How to Run the Project Locally
 ### Frontend
